@@ -78,4 +78,38 @@ h3{
   }
 
   /* title-image */
+
+
+
+
+  /* for features ---------------------------------------------------- section */
   
+.features{
+    margin: auto;
+}
+
+
+.features-title{
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+.features-prgrph{
+    text-align: center;
+    font-size: 0.9rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.features-image{
+    width: 150px;
+    transition: transform .7s ease-in-out;  
+}
+
+
+.features-image:hover {
+    transform: rotate(360deg);
+  }
