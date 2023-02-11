@@ -48,6 +48,12 @@ h1{
     margin-bottom: 20px;
 }
 
+h2{
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.2;
+}
+
 h3{
     font-family: 'Poppins', sans-serif;
     font-size: 1.1rem;
@@ -113,3 +119,21 @@ h3{
 .features-image:hover {
     transform: rotate(360deg);
   }
+
+
+  /* Testimonials  ---------------------------------------------------- section */
+
+  #testimonials{
+    background-color: #22A198;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 7% 15%;
+    text-align: center;
+  }
+
+.testimonials-img{
+    width: 7%;
+    border-radius: 100%;
+    margin: 20px;
+}
