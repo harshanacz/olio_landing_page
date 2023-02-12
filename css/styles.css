@@ -161,3 +161,23 @@ h3{
   .pricing-column{
     margin-bottom: 20px;
   }
+
+  .card{
+    border-radius: 40px
+  }
+
+  .card:hover{
+    border-color: #b9b9b9;
+  }
+
+
+  .btn-outline-primary {
+    border-color: #22A198;
+    color: #22A198;
+  }
+
+  .btn-outline-primary:hover {
+    background-color: #22A198 ;
+    color: white ;
+    border-color: #22A198;
+  }
