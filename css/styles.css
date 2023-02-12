@@ -143,8 +143,21 @@ h3{
 }
 
 
-  /* Press  ---------------------------------------------------- section */
+  /* Pricing  ---------------------------------------------------- section */
 
-  #press{
-    
+
+  .pricing-title{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .pricing-prgrph{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .pricing-column{
+    margin-bottom: 20px;
   }
