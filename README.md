@@ -2,15 +2,17 @@
 
 ###
 
+
+<p align="left">This project is the front-end for the OLIO app, created using HTML, CSS, and BootStrap. OLIO is a food-sharing app that aims to reduce food waste by connecting individuals and businesses with surplus food to nearby neighbors. Our front-end implementation provides a user-friendly interface for the OLIO app, enabling users to find and share food in their community easily.</p>
+
+
 <h3 align="left">Features</h3>
 
 ###
 
 <p align="left">* User-friendly interface<br>* Responsive design<br>* Easy navigation</p>
 
-###
 
-<p align="left">This project is the front-end for the OLIO app, created using HTML, CSS, and BootStrap. OLIO is a food-sharing app that aims to reduce food waste by connecting individuals and businesses with surplus food to nearby neighbors. Our front-end implementation provides a user-friendly interface for the OLIO app, enabling users to find and share food in their community easily.</p>
 
 ###
 
